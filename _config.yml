@@ -1,0 +1,28 @@
+name: THE SERVICE
+favicon: null
+layout_spectrum: 0.7676209805067629
+typography_spectrum: 0.5742453967686743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19206630694679916
+  lightness: 0.715952227357775
+  saturation: 0.46871205628849566
+  rhythmicContrast: 0.8318988820537925
+purpose: []
